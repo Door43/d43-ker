@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ker:home|Door43 (ker)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ker|d43-ker repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ker/archive/master.zip|d43-ker.zip]]
+
+**Recent Changes**
+{{changes>ns = ker}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ker|Ethnologue data]]
+
